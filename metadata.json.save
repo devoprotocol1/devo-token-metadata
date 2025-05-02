@@ -2,11 +2,11 @@
   "name": "Devo Protocol",
   "symbol": "DVO",
   "description": "A utility token for the Devo ecosystem.",
-  "image": "https://example.com/logo.png",
+  "image": "https://raw.githubusercontent.com/devoprotocol1/devo-token-metadata/refs/heads/main/Devo%20Protocol%20Logo.png",
   "properties": {
     "files": [
       {
-        "uri": "https://example.com/logo.png",
+        "uri": "https://raw.githubusercontent.com/devoprotocol1/devo-token-metadata/refs/heads/main/Devo%20Protocol%20Logo.png",
         "type": "image/png"
       }
     ],
@@ -14,4 +14,5 @@
     "creators": []
   }
 }
+
 
