@@ -1,0 +1,17 @@
+{
+  "name": "Devo Protocol",
+  "symbol": "DVO",
+  "description": "A utility token for the Devo ecosystem.",
+  "image": "https://example.com/logo.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://example.com/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }
+}
+
